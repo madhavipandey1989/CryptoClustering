@@ -2,6 +2,8 @@ In this unsupervised learning assignment we will try to predict if cryptocurrenc
 For this we loaded this css file  crypto_market_data.csv into a DataFrame.
 We renamed the file name.
 
+Analysis file is located at Unsupervised-learning-challange-19/Crypto_Clustering.ipynb.
+
 Preparing the DATA
 Used the StandardScaler() module from scikit-learn to normalize the data from the CSV file.
 Created a DataFrame with index "coin_id".
